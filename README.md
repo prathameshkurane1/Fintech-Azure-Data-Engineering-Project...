@@ -7,7 +7,7 @@ The project follows a **Medallion Architecture** with separate Bronze, Silver, a
 
 
 
-## 📌 Project Overview
+##📌 Project Overview
 
 This project simulates a financial data platform where data from an **Azure SQL Database** is extracted through Azure Data Factory and stored in Azure Data Lake Storage Gen2.
 
